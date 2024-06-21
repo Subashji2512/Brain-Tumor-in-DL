@@ -1,1 +1,2 @@
 This Folder contains a Simple Sequential CNN model of Brain Tumor detection which contains a web framework using (HTML,CSS,BOOTSTRAP,JS) 
+Create the dataset file as theree folder (yes,no) in one folder and predicting images as (uploads)
